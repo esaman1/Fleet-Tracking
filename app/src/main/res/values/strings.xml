@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Fleet-Tracking</string>
+    <string name="locanix">LOCANIX</string>
+    <string name="server">Server</string>
+    <string name="connect">Connect</string>
+    <string name="back">Back</string>
+    <string name="map">Map</string>
+    <string name="attr">Attributes</string>
+    <string name="var">Variables</string>
+    <string name="vehicle">Vehicle</string>
+    <string name="login">LOG IN</string>
+    <string name="ex">Example:”Yourserver.com”</string>
+    <string name="ex1">https://www.facebook.com/</string>
+    <string name="uname">Enter User Name</string>
+    <string name="pswd">Enter Password</string>
+    <string name="vehicle_no">GJ 18-AZ-5948</string>
+    <string name="last_seen_lbl">Last Seen :  </string>
+    <string name="last_seen">an hour ago</string>
+    <string name="root">Jaipur Kishangarh Expressway, Kishangrah,Kis...</string>
+    <string name="server_connection">Connecting to https://www.google.com</string>
+    <string name="today_trip">Today’s Trips</string>
+    <string name="nodata">No History Found For \n Last 24 Hours.</string>
+    <string name="noVehicle">No Vehicle Found.</string>
+
+    <string name="on">On</string>
+    <string name="off">Off</string>
+
+    <string name="moving">Moving</string>
+    <string name="idling">Idling</string>
+    <string name="parked">Parked</string>
+    <string name="offline">Offline</string>
+    <string name="pending">Pending</string>
+
+    <string name="search">Search GJ01-XY-0000</string>
+    <string name="all">All</string>
+
+    <string name="m1">Supreme Transport Solution</string>
+    <string name="m2">All Vehicles</string>
+    <string name="m3">Google Map</string>
+    <string name="m4">Log Out</string>
+
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+
+    <string name="test_token">eyJVc2VybmFtZSI6Ijk4NzkyMzEzMzkiLCJBcHBJZCI6MTUyLCJDcmVhdGVkRGF0ZSI6IjIwMjEtMTItMjFUMTM6Mjg6NTEuMzA0ODg4KzA1OjMwIiwiR2dzVG9rZW4iOiJpUHk0SHBzU1RpS0huRkEzbzclMmZRZDF3UUdueCUyZmp0S3ljNEdUQ2JhbXluNjZ4S0IlMmY1SmxNdGZjcmJQQXVmRDdlIiwiU2VydmVyIjoiaHR0cHM6Ly9mbXMubG9jYW5peC5uZXQiLCJCYXNlQXBpVXJsIjoiaHR0cHM6Ly9mbXMubG9jYW5peC5uZXQvcmVzdC9hcGkvdi4xLyJ9</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

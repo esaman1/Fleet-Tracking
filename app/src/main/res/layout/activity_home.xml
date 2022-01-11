@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+    </data>
+
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".activities.HomeActivity">
+
+        <androidx.drawerlayout.widget.DrawerLayout
+            android:id="@+id/mDrawerLayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#E5E5E5">
+
+                <View
+                    android:id="@+id/hideBack"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="#6C000000"
+                    android:visibility="gone" />
+
+                <androidx.viewpager.widget.ViewPager
+                    android:id="@+id/view_pager"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_above="@id/bottom_navigation_view" />
+
+                <com.google.android.material.bottomnavigation.BottomNavigationView
+                    android:id="@+id/bottom_navigation_view"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:background="@drawable/grey_bottom_bg"
+                    android:paddingVertical="@dimen/_5sdp"
+                    app:itemIconSize="@dimen/_35sdp"
+                    app:itemIconTint="@color/bottom_nav_color"
+                    app:itemRippleColor="@null"
+                    app:itemTextColor="@color/bottom_nav_color"
+                    app:labelVisibilityMode="unlabeled"
+                    app:menu="@menu/bottom_menu" />
+
+            </RelativeLayout>
+
+            <com.google.android.material.navigation.NavigationView
+                android:id="@+id/navigationView"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="start"
+                android:fitsSystemWindows="true"
+                app:headerLayout="@layout/header_layout"
+                app:itemTextAppearance="@style/menu_text_style"
+                app:menu="@menu/side_menu" />
+        </androidx.drawerlayout.widget.DrawerLayout>
+
+        <LinearLayout
+            android:id="@+id/llBottom"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_30sdp"
+            android:background="@drawable/grey_bottom_bg"
+            app:behavior_hideable="true"
+            app:behavior_peekHeight="0dp"
+            app:elevation="@dimen/_3sdp"
+            app:layout_behavior="com.google.android.material.bottomsheet.BottomSheetBehavior">
+
+            <include
+                android:id="@+id/llMain"
+                layout="@layout/vehicle_info" />
+
+        </LinearLayout>
+
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+</layout>

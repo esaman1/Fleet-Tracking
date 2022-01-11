@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "294195329592",
+    "project_id": "fleettracking-336609",
+    "storage_bucket": "fleettracking-336609.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294195329592:android:1f0835326fbdb45082c4cd",
+        "android_client_info": {
+          "package_name": "com.daily.fleet.tracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294195329592-ljfeeuotrra5vr1juo8a4c3e9s0rl403.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtDX7zs7Z40EWV7X0kmlYHsQc1dMm-c8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294195329592-ljfeeuotrra5vr1juo8a4c3e9s0rl403.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

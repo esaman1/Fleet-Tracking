@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/drawable/circle.xml" value="0.3527777777777778" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/drawable/dark_bg.xml" value="0.3527777777777778" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/drawable/dark_half_bg.xml" value="0.33796296296296297" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/drawable/grey_bottom_bg.xml" value="0.3527777777777778" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/drawable/ic_cluster_bg.xml" value="0.33796296296296297" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/drawable/ic_flag.xml" value="0.33240740740740743" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/drawable/ic_group_bg.xml" value="0.35" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/drawable/ic_l.xml" value="0.33240740740740743" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/drawable/ic_locanix.xml" value="0.3527777777777778" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/drawable/ic_moving.xml" value="0.3398148148148148" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/drawable/ic_parked_circle.xml" value="0.3398148148148148" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/drawable/ic_pending.xml" value="0.3398148148148148" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/drawable/ic_pending_circle.xml" value="0.3398148148148148" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/drawable/ic_pin.xml" value="0.33240740740740743" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/drawable/ic_search.xml" value="0.3425925925925926" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/drawable/ic_tab.xml" value="0.35" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/drawable/ic_track_current.xml" value="0.33240740740740743" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/drawable/ic_track_desination.xml" value="0.33240740740740743" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/drawable/ic_track_end.xml" value="0.33240740740740743" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/drawable/ic_truck.xml" value="0.3351851851851852" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/drawable/ic_user.xml" value="0.3425925925925926" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/drawable/ic_vehicle_icon.xml" value="0.32314814814814813" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/drawable/seek_bar.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/drawable/textview_bg.xml" value="0.3527777777777778" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/layout/activity_connecting.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/layout/activity_demo.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/layout/activity_drawing.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/layout/activity_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/layout/customlayout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/layout/fragment_base_map1.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/layout/fragment_blank.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/layout/fragment_history.xml" value="0.22" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/layout/fragment_map.xml" value="0.29259259259259257" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/layout/fragment_overview.xml" value="0.33" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/layout/fragment_vehicle.xml" value="0.33" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/layout/header_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/layout/history_item.xml" value="0.33" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/layout/history_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/layout/map.xml" value="0.25" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/layout/multi_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/layout/vehicle_info.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/layout/vehicle_item.xml" value="0.33" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/menu/bottom_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cubezytech/AndroidStudioProjects/Github_new/FleetTracking/app/src/main/res/menu/side_menu.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

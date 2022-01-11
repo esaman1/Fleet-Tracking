@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/historyRL"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingVertical="@dimen/_5sdp">
+
+    <TextView
+        android:id="@+id/tvTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toStartOf="@id/tvKm"
+        android:fontFamily="@font/poppins"
+        android:text="12:09 AM - 12:09 AM"
+        android:textColor="@color/black"
+        android:textSize="@dimen/_12sdp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvKm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:fontFamily="@font/poppins"
+        android:paddingStart="@dimen/_5sdp"
+        android:text="1.1 km"
+        android:textColor="@color/black"
+        android:textSize="@dimen/_12sdp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvSource"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvTime"
+        android:drawableStart="@drawable/ic_flag"
+        android:drawablePadding="@dimen/_5sdp"
+        android:fontFamily="@font/poppins"
+        android:maxLines="1"
+        android:text="Dehare, Nagar, Ahmedndagar, Maharashtdsra ,41411"
+        android:textSize="@dimen/_10sdp" />
+
+    <TextView
+        android:id="@+id/tvDestination"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvSource"
+        android:drawableStart="@drawable/ic_flag"
+        android:drawablePadding="@dimen/_5sdp"
+        android:drawableTint="#149B5F"
+        android:fontFamily="@font/poppins"
+        android:maxLines="1"
+        android:text="NH160, Ahmadnager,Nadgar,ahmedanasdgar,Mahr.."
+        android:textSize="@dimen/_10sdp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_below="@id/tvDestination"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:background="@color/hint_color" />
+
+</RelativeLayout>
